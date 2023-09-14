@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2023 FALL234753cruz0032 authors
+Copyright (c) 2023 Bella Cruz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

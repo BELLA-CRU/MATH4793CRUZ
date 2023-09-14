@@ -1,11 +1,11 @@
 Package: FALL234753cruz0032
 Type: Package
-Title: What the Package Does (Title Case)
+Title: MATH 4793 Functions
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Bella Cruz
+Maintainer: Bella Cruz <bella.v.cruz@ou.edu>
+Description: Functions used in the labs and assignments for my course
 Encoding: UTF-8
 LazyData: true
 License: MIT + file LICENSE
+RoxygenNote: 7.2.3
