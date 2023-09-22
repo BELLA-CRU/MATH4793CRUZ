@@ -17,3 +17,6 @@ calculated TSS values
 \description{
 TSS Calculation
 }
+\examples{
+TSS(ddt <- read.csv("C:/Users/bella/Documents/School Folders/Fall 2023/Applied Statistical Methods/DATAxls/DDT.csv"), ddt$Height)
+}
