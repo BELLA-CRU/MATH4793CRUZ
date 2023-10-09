@@ -3,5 +3,6 @@
 export(TSS)
 export(mybin)
 export(myfun)
+export(myncurve)
 importFrom(grDevices,rainbow)
 importFrom(graphics,barplot)
