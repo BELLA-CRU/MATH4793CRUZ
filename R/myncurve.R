@@ -1,3 +1,4 @@
+#'
 #' @title myncurve
 #'
 #' @param mu mean
